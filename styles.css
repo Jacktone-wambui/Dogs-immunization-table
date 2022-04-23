@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+table{
+	border-collapse: separate;
+	font-family: sans-serif;
+	align-items: center;
+	border-spacing: 0;
+	width: inherit;
+	height: inherit;
+}
+th,td{
+	padding: 10px 15px;
+}
+thead{
+	background: black;
+	color: #fff;
+}
+td{
+	background: #B7C027;
+	color: black;
+}
+thead,th,tbody,td{
+	text-align: center;
+}
+tr{
+	width: 1000px;
+	height: inherit;
+}
